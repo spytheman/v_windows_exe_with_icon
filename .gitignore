@@ -7,3 +7,5 @@ aa
 *.dylib
 *.dll
 vls.log
+myexe.exe
+resources.o
