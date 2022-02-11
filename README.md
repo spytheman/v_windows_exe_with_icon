@@ -18,8 +18,8 @@ The result can be seen in `Thunar` (on Ubuntu, it also needs: `sudo apt install 
 Prerequisites:
 ====
 
-* Latest V from https://github.com/vlang/v
-* a working mingw-w64 package (needed for x86_64-w64-mingw32-windres + x86_64-w64-mingw32-gcc)
+* Latest `V` from https://github.com/vlang/v
+* a working `mingw-w64` package (needed for `x86_64-w64-mingw32-windres` + `x86_64-w64-mingw32-gcc`)
 
 
 See also the [Makefile](Makefile).
