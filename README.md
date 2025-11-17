@@ -1,8 +1,7 @@
 What is this:
 ==== 
 This simple V project, shows how to produce a Windows executable with an icon, on Linux, using V's cross compiling capabilities.
-
-
+The executable should be ~20KB after stripping (which running `make all` does).
 
 How:
 ====
